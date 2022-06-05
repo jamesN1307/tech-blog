@@ -1,4 +1,4 @@
-## Social Networking API 👋
+## tech-blog👋
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/jamesN1307/tech-blog" />
     <img src="https://img.shields.io/github/languages/top/jamesN1307/tech-blog"  />
