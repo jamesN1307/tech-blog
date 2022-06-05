@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: flex-start;
+    background: rgb(3, 214, 84);
+}
+
+header {
+    padding-top: 10px;
+    padding-left:10px;
+    padding-right: 10px;
+    text-align: right;
+    background: rgb(3, 214, 84);
+    color: bissalmonque;
+    border-bottom-style: solid;
+    font-size: 20px;
+}
+
+#navLinksHeader {
+    color: bisque;
+    text-align: left;
+}
+
+#newBlog {
+    margin-left: 10px;
+}
+
+#blogListEach {
+    border: 5px solid skyblue;
+    margin:15px 10px 15px 10px;
+}
+
+.bodyContainerBlog {
+    border: 5px solid crimson;
+    margin:15px 10px 15px 10px;
+}
+
+.blogTitle {
+    font-weight: bolder;
+}
+
+footer {
+    
+    padding: 20px;
+    text-align: center;
+    background: rgb(3, 214, 84);
+    color: salmon;
+    border-bottom-style: solid
+}
